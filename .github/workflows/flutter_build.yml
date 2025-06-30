@@ -1,2 +1,0 @@
-- name: Run flutter doctor
-        run: flutter doctor -v
